@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Prueba técnica
+
+La logíca realizada se encuentra en:
+productos-prueba-tecnica/src/App.js
+
+### `npm install`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
