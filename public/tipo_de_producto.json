@@ -1,0 +1,44 @@
+[
+    {
+        "tipo": "polera",
+        "opciones":{
+            "color":{
+                "valores":["roja", "verde", "azul"],
+                "estado": "activo"
+            },            
+            "talla": {
+                "valores":["S", "M", "L"],
+                "estado": "activo"
+            }, 
+            "material":{
+                "valores":["algodón", "poliester"],
+                "estado":"activo"
+            }
+        }
+        
+    },
+    {
+        "tipo": "calcetines",
+        "opciones":{
+            "tamaño": {
+                "valores":["chico", "grande"],
+                "estado":"activo"
+            },
+            "color":{
+                "valores":["blanco", "negro"],
+                "estado":"activo"
+            }
+        }
+        
+    },
+    {
+        "tipo": "gorros",
+        "opciones":{
+            "color":{
+                "valores":["cafe", "negro"],
+                "estado":"activo"
+            }
+        }        
+    }
+    
+]
